@@ -1,0 +1,5 @@
+﻿tripId,vehicleId,passengerCount,tripDate,tripStatus
+T001,V001,45,15-01-2025,Completed
+T002,V002,0,15-01-2025,Cancelled
+T003,V003,30,16-01-2025,In_Progress
+T004,V004,25,16-01-2025,Completed

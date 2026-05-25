@@ -1,0 +1,5 @@
+﻿alertId,routeId,alertReason,alertSeverity,alertStatus
+A001,R001,HeavyCongestion,HIGH,ACTIVE
+A002,R002,Roadclosure,CRITICAL,ACTIVE
+A003,,Signalfailure,LOW,RESOLVED
+A004,R004,Minordelay,MEDIUM,ACTIVE
